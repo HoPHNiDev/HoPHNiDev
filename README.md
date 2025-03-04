@@ -1,8 +1,8 @@
 # 👋🏼 Hello World!, I'm HoPHNi, Backend Developer from Uzbekistan:
 
-🚀 Currently working on Web3 & AI-powered web platforms
-🎓 Studying in my first year at university, majoring in Information Systems & Technology
-💻 In IT since 2021 | 🏆 Award-winning programmer in regional & national coding olympiads during school years
+🚀 Currently working on Web3 & AI-powered web platforms<br>
+🎓 Studying in my first year at university, majoring in Information Systems & Technology<br>
+💻 In IT since 2021 | 🏆 Award-winning programmer in regional & national coding olympiads during school years<br>
 🛠️ Experienced in Python, FastAPI, Django, Selenium, and Web Automation
 
 ---
